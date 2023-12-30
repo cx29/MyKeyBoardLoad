@@ -1,3 +1,8 @@
 # MyKeyBoardLoad
 ## File
-> keyboard-layout.json 配列文件
+>
+> .
+> ├── README.md
+> └── file
+>     └── keyboard-layout.json 配列文件
+>
